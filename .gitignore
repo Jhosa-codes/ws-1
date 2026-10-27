@@ -1,0 +1,22 @@
+# Arquivos que o Git deve ignorar
+
+# Dependências
+node_modules/
+__pycache__/
+*.pyc
+
+# Ambiente
+.env
+.env.local
+
+# Arquivos de build
+dist/
+build/
+
+# Arquivos do sistema
+.DS_Store
+desktop.ini
+Thumbs.db
+
+# Logs
+*.log
