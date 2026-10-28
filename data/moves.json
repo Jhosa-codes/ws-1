@@ -1,0 +1,4 @@
+{
+  "THUNDERSHOCK": { "name": "ThunderShock", "type": "ELECTRIC", "power": 40, "accuracy": 100, "cooldown": 1.5 },
+  "WATER_GUN":    { "name": "Water Gun",    "type": "WATER",    "power": 40, "accuracy": 100, "cooldown": 1.5 }
+}

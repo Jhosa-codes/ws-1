@@ -1,0 +1,8 @@
+{
+  "ELECTRIC": { "WATER": 2.0, "FLYING": 2.0, "ELECTRIC": 0.5, "GRASS": 0.5, "DRAGON": 0.5, "GROUND": 0.0 },
+  "WATER":    { "GROUND": 2.0, "FIRE": 2.0, "ROCK": 2.0, "WATER": 0.5, "GRASS": 0.5, "DRAGON": 0.5 },
+  "GROUND":   { "ELECTRIC": 2.0, "FIRE": 2.0, "ROCK": 2.0, "GROUND": 0.5, "GRASS": 0.0, "FLYING": 0.0 },
+  "FLYING":   { "GRASS": 2.0, "ELECTRIC": 0.5, "ROCK": 0.5, "FLYING": 0.5, "GROUND": 0.0 },
+  "FIRE":     { "GRASS": 2.0, "ICE": 2.0, "WATER": 0.5, "FIRE": 0.5, "ROCK": 0.5, "DRAGON": 0.5 },
+  "GRASS":    { "WATER": 2.0, "GROUND": 2.0, "ROCK": 2.0, "FIRE": 0.5, "GRASS": 0.5, "POISON": 0.5, "FLYING": 0.5, "BUG": 0.5, "DRAGON": 0.5 }
+}
